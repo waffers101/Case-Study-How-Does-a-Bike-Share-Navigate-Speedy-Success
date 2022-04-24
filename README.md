@@ -11,5 +11,8 @@
 * type of biker (member/casual)
 * coordiantes of the places from where the rides start and end
 
+Task is to perform descriptive data analysis to discover an answer to the question mentioned above.
+
+I will be sharing my findings as a presentation that will be included in the files uploaded in this repository.
 
 Follow along as I learn EDA in python and apply it to this real world like problem :)
